@@ -24,8 +24,6 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="100"></td>
    </tr>
   </table>
 
